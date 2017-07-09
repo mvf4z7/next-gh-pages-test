@@ -57,5 +57,9 @@ typings/
 # dotenv environment variables file
 .env
 
+// Next.js build directory
 build
+
+// Next.js static site build directory
+out
 
